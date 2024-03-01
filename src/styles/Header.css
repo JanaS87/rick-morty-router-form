@@ -1,0 +1,32 @@
+.header {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    padding: 20px 30px;
+    align-items: center;
+    background-color: #242424;
+}
+
+.gallery-link {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.active-link {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #646cff;
+}
+
+
+.title {
+    font-size: 4rem;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
